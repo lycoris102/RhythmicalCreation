@@ -3,6 +3,9 @@
 - LudumDare: http://ludumdare.com/compo/
 - SoundGameJam2016: http://effectorhack.connpass.com/event/27404/
 
+## Play
+- https://lycoris102.site44.com/unity/rhythmical_creation/index.html
+
 ## Ignores
 ### Fonts
 - Anders: https://www.behance.net/gallery/18068463/Anders-(Free-Font)
